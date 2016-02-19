@@ -7,7 +7,7 @@ keywords: Mac,Vagrant
 description: 
 ---
 
-> Vagrant是一款用来构建虚拟开发环境的工具，它其实算是一个跨平台的虚拟机管理工具。
+> Vagrant是一款工具，它其实算是一个跨平台的虚拟机管理工具。
 
 ## 安装
 
